@@ -21,8 +21,3 @@ The device is built around an **ATmega2560-16AU** microcontroller, handling real
 - `/firmware/` - Microcontroller code and sensor drivers
 - `/software/` - UI, data logging, and display functions
 - `/assets/` - Images, diagrams, and references
-
-## Getting Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/E-PIP.git
